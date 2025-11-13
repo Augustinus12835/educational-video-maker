@@ -1,0 +1,210 @@
+1
+00:00:00,000 --> 00:00:04,733
+Here we'll look at risk versus
+uncertainty. These terms aren't
+
+2
+00:00:04,303 --> 00:00:09,036
+interchangeable - they're fundamentally
+different. The left shows a probability
+
+3
+00:00:08,606 --> 00:00:14,199
+distribution - that's risk. The right
+shows a black swan - that's uncertainty.
+
+4
+00:00:14,643 --> 00:00:19,363
+John Maynard Keynes, one of the most
+influential economists of the 20th
+
+5
+00:00:19,003 --> 00:00:21,923
+century, had important insights about
+uncertainty.
+
+6
+00:00:22,554 --> 00:00:28,514
+Keynes said: "By uncertain knowledge, I do
+not mean merely to distinguish what is
+
+7
+00:00:28,117 --> 00:00:32,885
+known for certain from what is only
+probable." Uncertainty isn't just
+
+8
+00:00:32,487 --> 00:00:34,474
+improbable - it's fundamentally
+unknowable.
+
+9
+00:00:34,750 --> 00:00:40,050
+Keynes continues: "The sense in which I
+use the term is that in which the prospect
+
+10
+00:00:39,770 --> 00:00:45,070
+of a European war is uncertain, or the
+price of copper and the rate of interest
+
+11
+00:00:44,750 --> 00:00:46,210
+twenty years hence are uncertain."
+
+12
+00:00:46,730 --> 00:00:51,870
+Warren Buffett adds: "Risk comes from not
+knowing what you are doing." Risk stems
+
+13
+00:00:51,530 --> 00:00:57,030
+from ignorance or lack of understanding.
+These two perspectives define our
+
+14
+00:00:56,590 --> 00:00:57,030
+framework.
+
+15
+00:00:57,365 --> 00:01:03,457
+Left side: Risk means known probability.
+Right side: Uncertainty means unknown
+
+16
+00:01:02,950 --> 00:01:09,043
+probability. Rolling a standard six-sided
+die demonstrates risk. Each outcome has
+
+17
+00:01:08,535 --> 00:01:13,105
+one-in-six probability. We can measure it
+and assign probabilities.
+
+18
+00:01:13,644 --> 00:01:19,524
+Corporate bonds illustrate risk. Credit
+ratings, historical default rates, and
+
+19
+00:01:19,064 --> 00:01:24,864
+financial statements provide data. We
+estimate default probabilities and model
+
+20
+00:01:24,324 --> 00:01:28,024
+scenarios. Data makes it risk, not
+uncertainty.
+
+21
+00:01:28,666 --> 00:01:34,266
+Car insurance premiums demonstrate
+measurable risk. Actuarial tables allow
+
+22
+00:01:33,806 --> 00:01:38,186
+insurance companies to assign
+probabilities to different accident types
+
+23
+00:01:37,826 --> 00:01:44,586
+using driver age, past accidents,
+location, and vehicle type. Your insurer
+
+24
+00:01:43,766 --> 00:01:49,666
+analyzes your profile against millions of
+data points. They calculate precise
+
+25
+00:01:48,986 --> 00:01:54,206
+probabilities for your demographic. Known
+probabilities mean measurable risk.
+
+26
+00:01:54,702 --> 00:02:01,638
+Now uncertainty. Technological disruption
+is the first example. Could anyone in 1995
+
+27
+00:02:01,105 --> 00:02:06,440
+predict smartphones would revolutionize
+banking? Could you assign probabilities?
+
+28
+00:02:05,907 --> 00:02:09,642
+No - you couldn't imagine it coming.
+
+29
+00:02:10,030 --> 00:02:16,104
+COVID-19 demonstrates uncertainty
+perfectly. Early 2020, no one could model
+
+30
+00:02:15,552 --> 00:02:21,625
+global lockdown probabilities or economic
+impacts. This was unprecedented. Without
+
+31
+00:02:21,073 --> 00:02:27,146
+historical data, we can't assign
+meaningful probabilities. That's the core
+
+32
+00:02:26,594 --> 00:02:28,250
+difference from risk.
+
+33
+00:02:28,543 --> 00:02:34,090
+Regime changes in stable countries
+represent uncertainty. A country stable
+
+34
+00:02:33,586 --> 00:02:40,646
+for decades - can you calculate regime
+change probability? No. These are unique,
+
+35
+00:02:40,142 --> 00:02:42,663
+one-off events without probability
+distributions.
+
+36
+00:02:43,398 --> 00:02:50,720
+Nassim Nicholas Taleb defined Black Swan
+events. A Black Swan has three attributes:
+
+37
+00:02:50,197 --> 00:02:56,997
+First, it's an outlier - outside regular
+expectations. Second, it carries extreme
+
+38
+00:02:56,474 --> 00:03:02,227
+impact. Third, despite being an outlier,
+humans create explanations afterward,
+
+39
+00:03:01,704 --> 00:03:07,457
+making it seem explainable and
+predictable. After events happen, we
+
+40
+00:03:06,934 --> 00:03:13,210
+convince ourselves we could've predicted
+them. But we couldn't. That's uncertainty.
+
+41
+00:03:12,687 --> 00:03:19,487
+So risk is measurable - we assign
+probabilities, model it, hedge with
+
+42
+00:03:18,964 --> 00:03:24,717
+derivatives. Uncertainty involves unknown
+unknowns - we can't assign probabilities
+
+43
+00:03:24,194 --> 00:03:28,378
+and need different strategies. This
+distinction is fundamental.

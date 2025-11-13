@@ -1,0 +1,77 @@
+# Environment variables
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# API responses (may contain raw data)
+**/api_responses.json
+
+# Personal lecture materials (not for public repo)
+**/lecture_notes.pdf
+**/course_materials/
+**/*proprietary*.pdf
+
+# Generated videos (users create their own)
+# EXCEPTION: Allow the example video
+*.mp4
+!example/Week-1/Video-1/final_video.mp4
+
+# Large audio files (except example)
+*.mp3
+!example/Week-1/Video-1/audio/*.mp3
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json

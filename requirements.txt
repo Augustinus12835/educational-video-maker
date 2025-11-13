@@ -1,0 +1,26 @@
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+mutagen>=1.47.0
+
+# Video processing
+# Note: Requires FFmpeg to be installed separately on your system
+# Install FFmpeg: https://ffmpeg.org/download.html
+ffmpeg-python>=0.2.0
+
+# AI/ML for subtitle generation
+# CRITICAL: Whisper provides word-level timing for perfect subtitle sync
+# The 'small' model (~460MB) will auto-download on first run
+# Do not change to 'tiny' or 'base' - they lack the accuracy needed for proper timing
+openai-whisper>=20231117
+
+# Optional: Image processing (for AI-generated images)
+Pillow>=10.0.0
+
+# Document parsing (for lecture notes)
+# PDF parsing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# PowerPoint parsing
+python-pptx>=0.6.21

@@ -1,0 +1,47 @@
+Video Compilation Report
+======================================================================
+Video: /path/to/your/course/Week-1/Video-1/final_video.mp4
+Generated: 2025-11-12 18:42:59
+Compilation Time: 67.7 seconds
+
+INPUT VERIFICATION
+----------------------------------------------------------------------
+✓ Script parsed: 12 frames
+✓ Images found: 12 PNG files (1920x1080)
+✓ Audio found: 12 MP3 files
+✓ Total expected duration: 240 seconds
+
+SUBTITLE GENERATION
+----------------------------------------------------------------------
+✓ Subtitles created: 43 subtitle entries
+✓ Format: SRT with Whisper word-level timestamps
+✓ Max line length: 42 characters
+✓ Max lines per subtitle: 2
+✓ Timing: Perfectly synced using Whisper STT
+
+VIDEO COMPILATION
+----------------------------------------------------------------------
+✓ Frame transitions: Crossfade (0.5s)
+✓ Audio timing: No artificial delay (Whisper-synced)
+✓ Frame duration: Extended to prevent audio cutoff
+✓ Video codec: H.264 (libx264, CRF 23)
+✓ Audio codec: AAC (192 kbps)
+✓ Resolution: 1920x1080 @ 30fps
+✓ Subtitles: Burned-in with styling
+
+OUTPUT VERIFICATION
+----------------------------------------------------------------------
+⚠ Video duration: 209s (target: 240s, diff: 31.1s)
+✓ File size: 12.3 MB
+✓ Resolution: 1920x1080
+✓ Codec: h264
+
+FILES CREATED
+----------------------------------------------------------------------
+✓ final_video.mp4 (12.3 MB)
+✓ subtitles.srt
+✓ compilation_report.txt
+
+STATUS: ⚠ COMPILATION COMPLETED WITH WARNINGS
+
+Please review the warnings above and verify video quality
